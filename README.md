@@ -14,8 +14,8 @@
 
   Following are the examples tested with our model :
 
-  Input 2:
-    (Img2.jpg?raw=true "Input 2")
+  Input 1:
+    <img>(Img1.jpg?raw=true "Input 1")</img>
     (Img2_boxed.jpg?raw=true "Input 2 Boxed")
     (Img2_cropped.jpg?raw=true "Input 2 Croppped")
     (Img2Result.jpg?raw=true "Input 2 Result")
