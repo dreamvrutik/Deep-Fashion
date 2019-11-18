@@ -6,7 +6,7 @@
  This cropped image is then passed to other model which takes the cropped image as an input and finds similar matching images in the database.
 
  The image is matched with other images on the basis of following three things :
-    2. Color
+    1. Color
     2. Shape
     3. Pattern
 
