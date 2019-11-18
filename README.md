@@ -22,6 +22,7 @@
 
 
   Input 2:
+    ![Image of Input2](Img2.jpg?raw=true "Input 2")
     ![Image of Input2 Boxed](Img2_boxed.jpg?raw=true "Input 2 Boxed")
     ![Image of Input2 Cropped](Img2_cropped.jpg?raw=true "Input 2 Croppped")
     ![Image of Input2 Result](Img2Result.png?raw=true "Input 2 Result")
