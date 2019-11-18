@@ -18,11 +18,10 @@
     ![Image of Input1](Img1.jpg?raw=true "Input 1")
     ![Image of Input1 Boxed](Img1_boxed.jpg?raw=true "Input 1 Boxed")
     ![Image of Input1 Cropped](Img1_cropped.jpg?raw=true "Input 1 Croppped")
-    ![Image of Input1 Result](Img1Result.jpg?raw=true "Input 1 Result")
+    ![Image of Input1 Result](Img1Result.png?raw=true "Input 1 Result")
 
 
   Input 2:
-    ![Image of Input2](Img2.jpg?raw=true "Input 2")
     ![Image of Input2 Boxed](Img2_boxed.jpg?raw=true "Input 2 Boxed")
     ![Image of Input2 Cropped](Img2_cropped.jpg?raw=true "Input 2 Croppped")
-    ![Image of Input2 Result](Img2Result.jpg?raw=true "Input 2 Result")
+    ![Image of Input2 Result](Img2Result.png?raw=true "Input 2 Result")
